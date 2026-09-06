@@ -1,5 +1,12 @@
 <div align="center">
+<div align="center">
 
+<img src="https://github.com/Paradise786/Paradise786/blob/main/profile.png?raw=true"
+     width="180"
+     style="border-radius: 50%;"
+     alt="Dua Fatima"/>
+
+</div>
 # Hi 👋 I'm Afeera Hameed
 
 ### 🤖 AI & Generative AI Enthusiast | 💻 Web Developer | 📱 App Developer
