@@ -1,12 +1,11 @@
-<div align="center">
-<div align="center">
+ <div align="center">
 
-<img src="https://github.com/Paradise786/Paradise786/blob/main/profile.png?raw=true"
-     width="180"
-     style="border-radius: 50%;"
-     alt="Afeera Hameed"/>
+<img src="https://github.com/Paradise786/Paradise786/raw/main/profile.png"
+width="180"
+alt="Afeera Hameed">
 
 </div>
+
 # Hi 👋 I'm Afeera Hameed
 
 ### 🤖 AI & Generative AI Enthusiast | 💻 Web Developer | 📱 App Developer
