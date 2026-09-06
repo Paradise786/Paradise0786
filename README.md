@@ -1,13 +1,8 @@
- <div align="center">
-
-<img src="https://github.com/Paradise786/Paradise786/raw/main/profile.png"
-width="180"
-alt="Afeera Hameed">
-
+<div align="center">
+  <img src="profile.png" width="180" alt="Afeera Hameed">
 </div>
 
 # Hi 👋 I'm Afeera Hameed
-
 ### 🤖 AI & Generative AI Enthusiast | 💻 Web Developer | 📱 App Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;AI+%7C+Generative+AI+%7C+Agentic+AI;Web+Development+%7C+Mobile+Apps;Always+Learning+and+Building+%F0%9F%9A%80" />
