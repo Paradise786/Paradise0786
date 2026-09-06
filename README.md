@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Exploring+Artificial+Intelligence;Building+AI-Powered+Applications;Working+on+CivicFlow+AI;Learning%2C+Building+and+Growing+Every+Day!" />
 
 </div>
-<div align="center">
+ 
 
 # 👋 Hi, I'm Afeera Hameed
 
