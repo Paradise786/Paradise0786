@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="./header.png" alt="Afeera Hameed Header" width="100%" />
+<!-- Banner Image with Controlled Size -->
+<img src="./header.png" alt="Afeera Hameed Header" style="max-width: 650px; width: 100%; height: auto; border-radius: 8px;" />
 
 <br/>
 <br/>
 
 <!-- Animated Typing Text -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=Exploring+LLMs+%7C+RA;Building+AI-Powered+Applications;Working+on+CivicFlow+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=500&lines=Exploring+LLMs+%7C+RA;Building+AI-Powered+Applications;Working+on+CivicFlow+AI" alt="Typing SVG" />
 
 <br/>
 
