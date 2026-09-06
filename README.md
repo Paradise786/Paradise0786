@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="profile.png" width="180" alt="Afeera Hameed">
-</div>
 
-# Hi 👋 I'm Afeera Hameed
-### 🤖 AI & Generative AI Enthusiast | 💻 Web Developer | 📱 App Developer
+# 👋 Hi, I'm Afeera Hameed
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;AI+%7C+Generative+AI+%7C+Agentic+AI;Web+Development+%7C+Mobile+Apps;Always+Learning+and+Building+%F0%9F%9A%80" />
+### 🤖 AI & Generative AI Enthusiast | 💻 Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Exploring+Artificial+Intelligence;Building+AI-Powered+Applications;Working+on+CivicFlow+AI;Learning%2C+Building+and+Growing+Every+Day!" />
 
 </div>
 
@@ -13,81 +12,111 @@
 
 ## 👩‍💻 About Me
 
-🌸 Passionate about **Artificial Intelligence and Generative AI**
+Hi! I'm **Afeera Hameed**, an aspiring developer passionate about **Artificial Intelligence and Generative AI**.
 
-🤖 Interested in **Agentic AI & AI Applications**
-
-💻 Learning and building **Web Development Projects**
-
-📱 Exploring **Mobile Application Development**
-
-🚀 Building projects and improving my skills every day!
+- 🤖 Interested in Artificial Intelligence & Generative AI
+- 🏛️ Currently working on **CivicFlow AI**
+- 💻 Learning Web Development
+- 📱 Exploring Mobile Application Development
+- 🚀 Building projects and learning new technologies
 
 ---
 
-## 🛠️ Languages & Tools
+## 🏛️ Featured Project
+
+### 🚀 CivicFlow AI
+
+**AI-Powered Citizen Issue Reporting & Management System**
+
+CivicFlow AI is a smart platform designed to help citizens report issues and track their progress efficiently.
+
+### ✨ Key Features
+
+- 📝 Citizen Issue Reporting
+- 🤖 AI-Powered Assistance
+- 📍 Location-Based Reports
+- 👨‍💼 Admin Dashboard
+- 📊 Issue Tracking
+- 🔔 Status Updates
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,php,java,mysql" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,androidstudio" />
+</p>
+
+### 🤖 Currently Exploring
+
+Artificial Intelligence • Generative AI • Agentic AI • RAG Applications
+
+---
+
+## 🚀 Projects
+
+### 🏛️ CivicFlow AI
+AI-Powered Citizen Issue Reporting & Management System
+
+### 🌐 CRUD Management System
+Student Management System built using:
+
+`PHP` • `MySQL` • `HTML` • `CSS`
+
+Features:
+
+- ➕ Add Students
+- 👀 View Students
+- ✏️ Update Students
+- 🗑️ Delete Students
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,java,vscode,github,git" />
+<img src="https://github-readme-stats.vercel.app/api?username=Paradise786&show_icons=true&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Paradise786&theme=tokyonight" />
 
 </p>
 
 ---
 
-## 🤖 AI & Development Interests
+## 💻 Most Used Languages
 
-- 🧠 Artificial Intelligence
-- ✨ Generative AI
-- 🤖 Agentic AI
-- 📄 RAG Applications
-- 🌐 Web Development
-- 📱 Mobile Application Development
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paradise786&layout=compact&theme=tokyonight" />
 
-## 🚀 My Projects
-
-### 🤖 CivicFlow AI
-Multilingual AI-powered health information and triage assistant.
-
-### 💬 AI Chatbot
-An intelligent chatbot with AI-powered features.
-
-### 📄 RAG PDF Assistant
-Ask questions and get answers from PDF documents using AI.
-
-### 🌐 CRUD Management System
-A PHP and MySQL-based student management system.
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently Learning
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Paradise786&show_icons=true&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Paradise786&hide_border=true" />
-
-</div>
-
----
-
-## 🌸 Let's Connect
-
-💼 LinkedIn: Coming Soon
-
-📧 Email: Coming Soon
+🤖 Artificial Intelligence  
+🧠 Generative AI  
+💻 Web Development  
+📱 Mobile Application Development  
 
 ---
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile! ✨
+### ✨ Learning • Building • Growing ✨
 
-⭐ Feel free to explore my repositories!
+⭐ Thanks for visiting my profile!
 
 </div>
