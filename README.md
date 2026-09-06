@@ -4,7 +4,7 @@
 <img src="https://github.com/Paradise786/Paradise786/blob/main/profile.png?raw=true"
      width="180"
      style="border-radius: 50%;"
-     alt="Dua Fatima"/>
+     alt="Afeera Hameed"/>
 
 </div>
 # Hi 👋 I'm Afeera Hameed
